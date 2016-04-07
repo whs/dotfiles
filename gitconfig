@@ -1,0 +1,7 @@
+[user]
+	email = manatsawin+git@gmail.com
+	name = Manatsawin Hanmongkolchai
+[push]
+        default = matching
+[core]
+        excludesfile = ~/.gitignore_global

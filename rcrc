@@ -1,0 +1,4 @@
+DOTFILES_DIRS=~/apps/dotfiles
+EXCLUDES=README.md
+UNDOTTED=undotted
+COPY_ALWAYS="rcrc"
