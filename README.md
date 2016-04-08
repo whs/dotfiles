@@ -4,4 +4,4 @@ I used to blog about this in [development machine setup](https://blog.whs.in.th/
 
 ## Install
 
-Install [rcm](https://github.com/thoughtbot/rcm) and run `rcup -x README.md`.
+Install [rcm](https://github.com/thoughtbot/rcm) and run `cp rcrc ~/.rcrc && rcup -x README.md`.
