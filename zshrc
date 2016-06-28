@@ -2,6 +2,8 @@ source ~/.zplug/zplug
 
 export LANG=en_US.UTF-8
 export EDITOR=nano
+export LD_LIBRARY_PATH=/usr/local/lib
+export VAGRANT_DEFAULT_PROVIDER=virtualbox
 DEFAULT_USER="whs"
 
 alias pacman="sudo pacman"
@@ -37,3 +39,7 @@ fi
 
 # Then, source plugins and add commands to $PATH
 zplug load
+
+if [ -f ~/.zshrc.local ]; then
+	source ~/.zshrc.local
+fi
