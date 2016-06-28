@@ -3,5 +3,6 @@
 	name = Manatsawin Hanmongkolchai
 [push]
         default = matching
+	followTags = true
 [core]
-        excludesfile = ~/.gitignore_global
+	excludesfile = /home/whs/.gitignore_global

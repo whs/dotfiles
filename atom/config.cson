@@ -17,6 +17,7 @@
     softTabs: false
     softWrap: true
     tabLength: 4
+  emmet: {}
   "exception-reporting":
     userId: "0113b5b1-7859-3e3a-ba08-308ee432c6d7"
   "js-hyperclick": {}
@@ -26,10 +27,12 @@
     showErrorInline: false
     showErrorTabFile: false
     showErrorTabProject: false
-  "linter-eslint": {}
+  "linter-eslint":
+    useGlobalEslint: true
   "linter-flow":
     executablePath: "/usr/bin/flow"
   minimap: {}
+  "one-dark-ui": {}
   "package-sync":
     forceOverwrite: true
   racer:
