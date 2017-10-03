@@ -26,17 +26,18 @@
 	"extensions.recommendations": [
 		"EditorConfig.EditorConfig",
 		"PeterJausovec.vscode-docker",
+		"Zignd.html-css-class-completion",
 		"anseki.vscode-color",
 		"asabil.meson",
 		"dbaeumer.vscode-eslint",
 		"donjayamanne.python",
+		"kalitaalexey.vscode-rust",
 		"lextudio.restructuredtext",
 		"lukehoban.Go",
 		"mitchdenny.ecdc",
 		"mohsen1.prettify-json",
 		"ms-vscode.cpptools",
 		"robertohuertasm.vscode-icons",
-		"rust-lang.rust",
 		"srfrnk.user-extensions",
 		"technosophos.vscode-helm"
 	]
