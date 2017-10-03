@@ -1,0 +1,4 @@
+#!/bin/bash
+if [ ! -d ~/.helm -a which helm > /dev/null 2>&1 ]; then
+	helm init -c
+fi

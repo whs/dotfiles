@@ -1,2 +1,4 @@
 ServerAliveInterval 60
 
+Host homura.tipme.in.th
+  ProxyCommand ssh madoka.whs.in.th -W %h:%p

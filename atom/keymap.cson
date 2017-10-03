@@ -1,8 +1,0 @@
-".platform-darwin atom-text-editor:not([mini])":
-  "cmd-;": "easy-motion-redux:letter"
-
-".platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])":
-  "ctrl-;": "easy-motion-redux:letter"
-
-'atom-text-editor[data-grammar="source js jsx"]:not([mini])':
-    'tab': 'emmet:expand-abbreviation-with-tab'

@@ -1,6 +1,7 @@
 [user]
 	email = manatsawin+git@gmail.com
 	name = Manatsawin Hanmongkolchai
+	signingkey = 114F08A7E2081ACA01EC7738461CCB345AD1E4A5
 [push]
         default = matching
 	followTags = true
