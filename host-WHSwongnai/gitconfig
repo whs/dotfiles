@@ -1,0 +1,8 @@
+[user]
+	email = manatsawin@wongnai.com
+	name = Manatsawin Hanmongkolchai
+[push]
+        default = matching
+	followTags = true
+[core]
+	excludesfile = /Users/win/.gitignore_global
