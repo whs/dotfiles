@@ -62,6 +62,7 @@ SigLevel = Optional TrustAll''', is_arch),
 	app('mpv'),
 	app('ssh-copy-id', 'brew install ssh-copy-id'),
 	app('youtube-dl'),
+	app('direnv'),
 ]
 
 for item in recommended_apps:
