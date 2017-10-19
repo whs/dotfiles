@@ -78,3 +78,5 @@ Temporary Items
 yarn.lock
 .vscode/
 package-lock.json
+.envrc
+.direnv/
