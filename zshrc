@@ -61,7 +61,7 @@ kubectx() {
 }
 
 if which direnv > /dev/null; then
-	eval "$(direnv hook zsh)"7
+	eval "$(direnv hook zsh)"
 fi
 
 if [ -f ~/.zshrc.local ]; then
