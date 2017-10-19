@@ -12,7 +12,7 @@
 
 	"window.zoomLevel": 0,
 
-	"workbench.colorTheme": "Visual Studio Dark",
+	"workbench.colorTheme": "Monokai",
 	"workbench.iconTheme": "vscode-icons",
 	"workbench.startupEditor": "newUntitledFile",
 
@@ -36,6 +36,7 @@
 		"lukehoban.Go",
 		"mitchdenny.ecdc",
 		"mohsen1.prettify-json",
+		"ms-vscode.azure-account",
 		"ms-vscode.cpptools",
 		"robertohuertasm.vscode-icons",
 		"srfrnk.user-extensions",
