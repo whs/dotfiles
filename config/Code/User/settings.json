@@ -40,6 +40,7 @@
 		"ms-vscode.cpptools",
 		"robertohuertasm.vscode-icons",
 		"srfrnk.user-extensions",
-		"technosophos.vscode-helm"
+		"technosophos.vscode-helm",
+		"zxh404.vscode-proto3"
 	]
 }
