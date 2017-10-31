@@ -60,6 +60,8 @@ kubectx() {
 	kubectl config use-context $1
 }
 
+source .kubectl_aliases
+
 if which direnv > /dev/null; then
 	eval "$(direnv hook zsh)"
 fi
