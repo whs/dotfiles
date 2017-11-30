@@ -30,11 +30,11 @@
 		"anseki.vscode-color",
 		"asabil.meson",
 		"dbaeumer.vscode-eslint",
-		"donjayamanne.python",
 		"heptio.jsonnet",
 		"kalitaalexey.vscode-rust",
 		"lextudio.restructuredtext",
 		"lukehoban.Go",
+		"metaseed.metago",
 		"mitchdenny.ecdc",
 		"mohsen1.prettify-json",
 		"ms-python.python",
@@ -43,5 +43,8 @@
 		"robertohuertasm.vscode-icons",
 		"srfrnk.user-extensions",
 		"zxh404.vscode-proto3"
+	],
+	"python.disablePromptForFeatures": [
+		"pylint"
 	]
 }
