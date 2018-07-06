@@ -6,3 +6,5 @@
 	followTags = true
 [core]
 	excludesfile = /Users/win/.gitignore_global
+[color]
+	ui = auto
