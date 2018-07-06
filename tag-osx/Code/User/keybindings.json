@@ -1,0 +1,23 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+	{
+		"key": "cmd+;",
+		"command": "metaGo.goto",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "alt+;",
+		"command": "-metaGo.goto",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+cmd+;",
+		"command": "metaGo.selection",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+alt+;",
+		"command": "-metaGo.selection",
+		"when": "editorTextFocus"
+	}
+]
