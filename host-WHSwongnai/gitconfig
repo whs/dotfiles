@@ -8,3 +8,5 @@
 	excludesfile = /Users/win/.gitignore_global
 [color]
 	ui = auto
+[protocol]
+	version = 2

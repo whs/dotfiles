@@ -1,6 +1,6 @@
 DEFAULT_USER="whs"
-
 export ZSH=$HOME/.oh-my-zsh
+fpath+=~/.zfunc
 
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="agnoster"
