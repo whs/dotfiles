@@ -19,7 +19,7 @@ COMPLETION_WAITING_DOTS="true"
 # much, much faster.
 DISABLE_UNTRACKED_FILES_DIRTY="true"
 
-plugins=(kubectl ssh-agent aws django docker)
+plugins=(kubectl ssh-agent aws docker)
 
 zstyle :omz:plugins:ssh-agent agent-forwarding on
 zstyle ':completion:*' rehash true # Automatically rehash
